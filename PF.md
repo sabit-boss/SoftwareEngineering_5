@@ -8,7 +8,7 @@ As a passenger or bag owner, I want to get a text or call if my bag is sitting a
 **Status: Implemented**
 
 ## Camera management
-​As a system administrator ,i want to add or remove cameras from the system, So that we Watch the right place.
+As a system administrator ,i want to add or remove cameras from the system, So that we Watch the right place.
 **Status: Implemented**
 
 ## T-18: Implement Account creation
@@ -61,6 +61,9 @@ As a Security Guard ,I want to say whether it was a false alarm or if the owner 
 ## SG6/T-6: Quick report to manager
 As a Security Guard, I want to send a bag report to the manager really quick ,so that my boss knows about scary bags right away
 **Status: Implemented**
+
+## T-11: Footage playback for verification 
+As a CCTV Control Room Operator, I want to watch the video from before and after the bag was left so that I can tell if it's really a problem or not
 
 ## SG7/T-7: History of checked bags
 As a Security Guard, I want tolook back at bags I've checked before ,so that I can remember what I did
