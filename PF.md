@@ -79,3 +79,7 @@ As a CCTV Control Room Operator, I want to dispatch a guard to check a bag with 
 As a Security Guard, i want to get the message again if I miss it the first time ,so that we don't lose track of any bags
 **Status: Implemented**
 
+## T-13: Case classification
+As a CCTV Control Room Operator, I want to mark whether the bag was real trouble or just a mistake so that the computer keeps track of what really happened
+**Status: Implemented**
+
