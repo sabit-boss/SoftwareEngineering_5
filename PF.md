@@ -72,6 +72,9 @@ As a CCTV Control Room Operator, I want to watch the video from before and after
 As a Security Guard, I want tolook back at bags I've checked before ,so that I can remember what I did
 **Status: Implemented**
 
+## T-12: One-click guard dispatch 
+As a CCTV Control Room Operator, I want to dispatch a guard to check a bag with one click, so that help arrives as quickly as possible.
+
 ## SG8/T-8: Missed alert re-notification
 As a Security Guard, i want to get the message again if I miss it the first time ,so that we don't lose track of any bags
 **Status: Implemented**
