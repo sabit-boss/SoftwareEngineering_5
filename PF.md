@@ -11,3 +11,28 @@ As a passenger or bag owner, I want to get a text or call if my bag is sitting a
 ​As a system administrator ,i want to add or remove cameras from the system, So that we Watch the right place.
 **Status: Implemented**
 
+## T-18: Implement Account creation
+As a System Administrator ,i want to make accounts for guards, office staff, and managers , So that people can only use what they should use.
+**Status: Implemented**
+
+## T-19: Implement Role-based permissions
+As a System Administrator, I want to decide what each person can see and do ,So that guards only see guard stuffs, managers only see manager stuffs.
+**Status: Implemented**
+
+## T-21: Implement Abandonment time setting
+As a System Administrator, I want to change how long a bag has to sit before we say it's abandoned ,so that we can make it tighter or looser depending on the place.
+## T-20: Implement Camera health alerts
+As a System Administrator, I want to know if a camera stops working ,So that I can fix it before we miss anythin
+**Status: Implemented**
+
+## T-22: Implement Case Notes
+As a System Administrator, I want to see who logged in and what they changed ,so that I can check that nothing fishy happened .
+**Status: Implemented**
+
+## T-23: Implement False alarm trend tracking
+As a System Administrator, i want to help someone who forgot their password or got locked out,so that they can get back to work fast.
+**Status: Implemented**
+
+As a System Administrator,i want to  set up automatic backups and get told when they're done ,so that the system is always safe and running .
+**Status: Implemented**
+
