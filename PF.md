@@ -62,3 +62,7 @@ As a Security Guard ,I want to say whether it was a false alarm or if the owner 
 As a Security Guard, I want to send a bag report to the manager really quick ,so that my boss knows about scary bags right away
 **Status: Implemented**
 
+## SG7/T-7: History of checked bags
+As a Security Guard, I want tolook back at bags I've checked before ,so that I can remember what I did
+**Status: Implemented**
+
