@@ -52,3 +52,7 @@ This task involves creating a login form component with email and passw ord fiel
 As a Security Guard i want to tell everyone where I am and what I'm doing with the bag ,so that the office knows I'm on my way and what's happening
 **Status: Implemented**
 
+## SG5/T-5: Case outcome reporting
+As a Security Guard ,I want to say whether it was a false alarm or if the owner came back so that,we know what really happened
+**Status: Implemented**
+
