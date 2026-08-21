@@ -33,3 +33,7 @@ As a System Administrator, I want to see who logged in and what they changed ,so
 As a System Administrator, i want to help someone who forgot their password or got locked out,so that they can get back to work fast.
 **Status: Implemented**
 
+## SG1/T-1: Instant alert on unattended bag
+As a security guard I want to get a quick message on my phone when someone leaves a bag behind so that I can rush over and check it out right away.
+**Status: Implemented**
+
