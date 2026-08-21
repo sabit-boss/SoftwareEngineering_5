@@ -33,3 +33,6 @@ As a System Administrator, I want to see who logged in and what they changed ,so
 As a System Administrator, i want to help someone who forgot their password or got locked out,so that they can get back to work fast.
 **Status: Implemented**
 
+As a System Administrator,i want to  set up automatic backups and get told when they're done ,so that the system is always safe and running .
+**Status: Implemented**
+
