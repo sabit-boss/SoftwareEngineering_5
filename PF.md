@@ -47,3 +47,8 @@ As a Security Guard, i want to know exactly where the bag is and what time it wa
 As a Security Guard, i want to see a picture of the bag before I get there so that ,I can  know which bag to look for when I arrive
 **Status: Implemented**
 
+## T-9: Live dashboard monitoring
+As a CCTV Control Room Operator, I want to see all the camera screens and spot which ones have left bags
+So that I can find problems fast
+**Status: Implemented**
+
