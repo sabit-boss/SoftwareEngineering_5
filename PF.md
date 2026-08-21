@@ -47,3 +47,8 @@ As a Security Guard, i want to know exactly where the bag is and what time it wa
 As a Security Guard, i want to see a picture of the bag before I get there so that ,I can  know which bag to look for when I arrive
 **Status: Implemented**
 
+## SG4/T-4: Status broadcast to control room
+This task involves creating a login form component with email and passw ord fields, including validation and error handling.
+As a Security Guard i want to tell everyone where I am and what I'm doing with the bag ,so that the office knows I'm on my way and what's happening
+**Status: Implemented**
+
