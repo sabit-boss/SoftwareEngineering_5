@@ -83,3 +83,7 @@ As a Security Guard, i want to get the message again if I miss it the first time
 As a CCTV Control Room Operator, I want to see how many bags are waiting right now so that I can do the most important ones first.
 **Status: Implemented**
 
+## T-13: Case classification
+As a CCTV Control Room Operator, I want to mark whether the bag was real trouble or just a mistake so that the computer keeps track of what really happened
+**Status: Implemented**
+
