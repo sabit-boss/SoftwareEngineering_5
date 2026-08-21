@@ -42,3 +42,8 @@ As a System Administrator,i want to  set up automatic backups and get told when 
 As a Security Guard, i want to know exactly where the bag is and what time it was left ,so that I don't have to search around - I can go straight there
 **Status: Implemented**
 
+## SG3/T-3: 
+## SG3/T-3: Photo of bag before arrival
+As a Security Guard, i want to see a picture of the bag before I get there so that ,I can  know which bag to look for when I arrive
+**Status: Implemented**
+
