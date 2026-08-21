@@ -21,5 +21,7 @@ As a System Administrator, I want to decide what each person can see and do ,So 
 
 ## T-21: Implement Abandonment time setting
 As a System Administrator, I want to change how long a bag has to sit before we say it's abandoned ,so that we can make it tighter or looser depending on the place.
+## T-20: Implement Camera health alerts
+As a System Administrator, I want to know if a camera stops working ,So that I can fix it before we miss anythin
 **Status: Implemented**
 
