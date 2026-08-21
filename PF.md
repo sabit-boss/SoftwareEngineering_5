@@ -72,3 +72,7 @@ As a CCTV Control Room Operator, I want to watch the video from before and after
 As a Security Guard, I want tolook back at bags I've checked before ,so that I can remember what I did
 **Status: Implemented**
 
+## SG8/T-8: Missed alert re-notification
+As a Security Guard, i want to get the message again if I miss it the first time ,so that we don't lose track of any bags
+**Status: Implemented**
+
