@@ -19,3 +19,7 @@ As a System Administrator ,i want to make accounts for guards, office staff, and
 As a System Administrator, I want to decide what each person can see and do ,So that guards only see guard stuffs, managers only see manager stuffs.
 **Status: Implemented**
 
+## T-21: Implement Abandonment time setting
+As a System Administrator, I want to change how long a bag has to sit before we say it's abandoned ,so that we can make it tighter or looser depending on the place.
+**Status: Implemented**
+
