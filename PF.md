@@ -83,3 +83,7 @@ As a Security Guard, i want to get the message again if I miss it the first time
 As a CCTV Control Room Operator, I want to mark whether the bag was real trouble or just a mistake so that the computer keeps track of what really happened
 **Status: Implemented**
 
+## T-16: Notes to dispatched guard 
+As a CCTV Control Room Operator, I want to send a note to a guard who's on the way so that I can give them extra information if they need it.
+**Status: Implemented**
+
