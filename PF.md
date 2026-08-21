@@ -29,3 +29,7 @@ As a System Administrator, I want to know if a camera stops working ,So that I c
 As a System Administrator, I want to see who logged in and what they changed ,so that I can check that nothing fishy happened .
 **Status: Implemented**
 
+## T-23: Implement False alarm trend tracking
+As a System Administrator, i want to help someone who forgot their password or got locked out,so that they can get back to work fast.
+**Status: Implemented**
+
