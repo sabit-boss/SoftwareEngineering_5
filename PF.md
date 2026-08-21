@@ -62,3 +62,7 @@ As a Security Guard ,I want to say whether it was a false alarm or if the owner 
 As a Security Guard, I want to send a bag report to the manager really quick ,so that my boss knows about scary bags right away
 **Status: Implemented**
 
+## T-11: Footage playback for verification 
+As a CCTV Control Room Operator, I want to watch the video from before and after the bag was left so that I can tell if it's really a problem or not
+**Status: Implemented**
+
