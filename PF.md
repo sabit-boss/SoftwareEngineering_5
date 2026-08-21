@@ -7,3 +7,7 @@ As a CCTV Control Room Operator, I want to search for old bags by when they happ
 As a passenger or bag owner, I want to get a text or call if my bag is sitting alone so that I can go back and get it before it's a problem.
 **Status: Implemented**
 
+## Camera management
+​As a system administrator ,i want to add or remove cameras from the system, So that we Watch the right place.
+**Status: Implemented**
+
