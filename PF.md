@@ -25,3 +25,7 @@ As a System Administrator, I want to change how long a bag has to sit before we 
 As a System Administrator, I want to know if a camera stops working ,So that I can fix it before we miss anythin
 **Status: Implemented**
 
+## T-22: Implement Case Notes
+As a System Administrator, I want to see who logged in and what they changed ,so that I can check that nothing fishy happened .
+**Status: Implemented**
+
