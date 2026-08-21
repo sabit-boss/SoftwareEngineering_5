@@ -58,6 +58,9 @@ As a Security Guard i want to tell everyone where I am and what I'm doing with t
 As a Security Guard ,I want to say whether it was a false alarm or if the owner came back so that,we know what really happened
 **Status: Implemented**
 
+## T-10: Instant pop-up alert
+As a CCTV Control Room Operator, I want to get a pop-up on my screen the second a bag is left behind so that I know about it immediately
+
 ## SG6/T-6: Quick report to manager
 As a Security Guard, I want to send a bag report to the manager really quick ,so that my boss knows about scary bags right away
 **Status: Implemented**
