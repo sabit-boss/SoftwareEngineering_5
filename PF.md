@@ -15,3 +15,7 @@ As a passenger or bag owner, I want to get a text or call if my bag is sitting a
 As a System Administrator ,i want to make accounts for guards, office staff, and managers , So that people can only use what they should use.
 **Status: Implemented**
 
+## T-19: Implement Role-based permissions
+As a System Administrator, I want to decide what each person can see and do ,So that guards only see guard stuffs, managers only see manager stuffs.
+**Status: Implemented**
+
