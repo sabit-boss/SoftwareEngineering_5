@@ -38,3 +38,7 @@ As a security guard I want to get a quick message on my phone when someone leave
 As a System Administrator,i want to  set up automatic backups and get told when they're done ,so that the system is always safe and running .
 **Status: Implemented**
 
+## feature-SG2/T-2:Bag location and timestamp 
+As a Security Guard, i want to know exactly where the bag is and what time it was left ,so that I don't have to search around - I can go straight there
+**Status: Implemented**
+
