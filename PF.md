@@ -19,3 +19,7 @@ As a System Administrator ,i want to make accounts for guards, office staff, and
 As a System Administrator, I want to decide what each person can see and do ,So that guards only see guard stuffs, managers only see manager stuffs.
 **Status: Implemented**
 
+## T-20: Implement Camera health alerts
+As a System Administrator, I want to know if a camera stops working ,So that I can fix it before we miss anythin
+**Status: Implemented**
+
