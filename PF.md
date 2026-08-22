@@ -105,3 +105,7 @@ As a security manager, I want to get told right away when a bag is actually dang
 ## T-27: Implement Weekly report generation
 As a security manager, I want to make a report of all the bags we found each week so that, I can tell the boss how we're doing.
 **Status: Implemented**
+## T-28: Implement Direct police contact
+As a security manager, I want to call the police right from the system when needed so that, everything is tracked and documented.
+**Status: Implemented**
+
