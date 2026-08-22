@@ -102,3 +102,6 @@ ord fields, including validation and error handling.
 As a security manager, I want to get told right away when a bag is actually dangerous so that, I can take charge and make big calls..
 **Status: Implemented**
 
+## T-27: Implement Weekly report generation
+As a security manager, I want to make a report of all the bags we found each week so that, I can tell the boss how we're doing.
+**Status: Implemented**
