@@ -109,3 +109,17 @@ As a security manager, I want to make a report of all the bags we found each wee
 As a security manager, I want to call the police right from the system when needed so that, everything is tracked and documented.
 **Status: Implemented**
 
+## T-29: Implement Guard response time tracking
+As a security manager, I want to see how fast each guard gets to a bag so that, I know who's doing great and who needs help.
+
+## T-30: Implement Case notes
+As a security manager, I want to write notes on a finished bag case so that, we have the full story for later.
+**Status: Implemented**
+
+## T-31:Implement False alarm trend tracking
+As security manager, I want to see if we're getting a lot of false alarms so that, I can tell if the system needs tuning.
+**Status: Implemented**
+
+## T-32:Implement End-of-shift unresolved list
+As a security manager, I want to get a list of all bags we haven't finished yet at the end of my shift so that, nothing gets forgotten overnight.
+
