@@ -91,3 +91,7 @@ As a CCTV Control Room Operator, I want to mark whether the bag was real trouble
 As a CCTV Control Room Operator, I want to send a note to a guard who's on the way so that I can give them extra information if they need it.
 **Status: Implemented**
 
+## T-25:Full incide log 
+As a Security Manager, I want to see all the bag problems that happened, so that i can see if we have a pattern or a trend .
+**Status: Implemented**
+
