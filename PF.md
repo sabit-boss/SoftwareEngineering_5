@@ -95,3 +95,13 @@ As a CCTV Control Room Operator, I want to send a note to a guard who's on the w
 As a Security Manager, I want to see all the bag problems that happened, so that i can see if we have a pattern or a trend .
 **Status: Implemented**
 
+## T-14: Implement Immediate threat notification
+This task involves creating a login form component with email and passw
+ord fields, including validation and error handling.
+## T-26: Implement Immediate threat notification
+As a security manager, I want to get told right away when a bag is actually dangerous so that, I can take charge and make big calls..
+**Status: Implemented**
+
+## T-27: Implement Weekly report generation
+As a security manager, I want to make a report of all the bags we found each week so that, I can tell the boss how we're doing.
+**Status: Implemented**
