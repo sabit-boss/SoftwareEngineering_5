@@ -112,3 +112,7 @@ As a security manager, I want to call the police right from the system when need
 ## T-29: Implement Guard response time tracking
 As a security manager, I want to see how fast each guard gets to a bag so that, I know who's doing great and who needs help.
 
+## T-30: Implement Case notes
+As a security manager, I want to write notes on a finished bag case so that, we have the full story for later.
+**Status: Implemented**
+
