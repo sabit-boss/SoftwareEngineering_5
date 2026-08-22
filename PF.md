@@ -116,3 +116,7 @@ As a security manager, I want to see how fast each guard gets to a bag so that, 
 As a security manager, I want to write notes on a finished bag case so that, we have the full story for later.
 **Status: Implemented**
 
+## T-31:Implement False alarm trend tracking
+As security manager, I want to see if we're getting a lot of false alarms so that, I can tell if the system needs tuning.
+**Status: Implemented**
+
