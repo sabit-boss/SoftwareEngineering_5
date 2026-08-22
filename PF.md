@@ -109,3 +109,6 @@ As a security manager, I want to make a report of all the bags we found each wee
 As a security manager, I want to call the police right from the system when needed so that, everything is tracked and documented.
 **Status: Implemented**
 
+## T-29: Implement Guard response time tracking
+As a security manager, I want to see how fast each guard gets to a bag so that, I know who's doing great and who needs help.
+
