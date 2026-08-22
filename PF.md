@@ -120,3 +120,6 @@ As a security manager, I want to write notes on a finished bag case so that, we 
 As security manager, I want to see if we're getting a lot of false alarms so that, I can tell if the system needs tuning.
 **Status: Implemented**
 
+## T-32:Implement End-of-shift unresolved list
+As a security manager, I want to get a list of all bags we haven't finished yet at the end of my shift so that, nothing gets forgotten overnight.
+
